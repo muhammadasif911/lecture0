@@ -1,0 +1,20 @@
+div {
+	background: red;
+	width: 600px;
+	height:300px;
+	margin: 20px;
+	padding: 30px;
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+section{
+	background: green;
+	width: 400px;
+	height: 300px;
+	font-family: calibri;
+	font-size:20px;
+	margin: 10px;
+	padding: 15px;
+}
